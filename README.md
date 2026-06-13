@@ -1,1 +1,1 @@
-# SQL_retail_sales_analysis
+# Retail Sales Analysis using SQL
