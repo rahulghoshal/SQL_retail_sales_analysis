@@ -123,4 +123,4 @@ Rahul Ghoshal
 
 M.Sc. Data Science
 
-SQL | Data Analytics | Business Intelligence
+
