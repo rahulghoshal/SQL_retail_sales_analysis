@@ -142,7 +142,7 @@ Calculated the total number of orders in each shift.
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](Dashboard Screenshoot.png)
+![Retail Sales Dashboard](Dashboard.png)
 
 An interactive dashboard was created in Power BI to visualize the results of the SQL analysis.
 
